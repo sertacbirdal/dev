@@ -1,5 +1,4 @@
 # CodeMirror
-
 [![Build Status](https://github.com/codemirror/dev/workflows/main/badge.svg)](https://github.com/codemirror/codemirror.next/actions)
 
 This is the central repository for [CodeMirror](https://codemirror.net/). It holds the bug tracker and development scripts.
